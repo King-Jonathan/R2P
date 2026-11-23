@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.venv/
+.venv-win/
+venv/
+
+# C++ / CMake
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+CMakeUserPresets.json
+
+# Local runtime / test configs
+second.json
+*.log
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~

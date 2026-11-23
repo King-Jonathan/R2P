@@ -1,0 +1,16 @@
+{
+  "default_callsign": "Booperator",
+  "frequency": "7.074",
+  "channel_key": "liberty",
+  "udp_port": 19302,
+  "visible_lines": 20,
+  "encoding": "default",
+  "message_mode": "pixel",
+  "nostr_relays": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.nostr.band"
+  ],
+  "stun_server": "stun.l.google.com:19302",
+  "discovery_backend": "nostr"
+}
